@@ -1,0 +1,35 @@
+
+.parallax {
+    min-height: 100dvh;
+    max-width: 100dvw;
+}
+.parallax_experience {
+    background-image: url(./images/experience.jpg);
+    min-height: 100dvh;
+    max-width: 100dvw;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax_portfolio {
+    background-image: url(./images/portfolio.webp);
+    min-height: 100dvh;
+    max-width: 100dvw;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.parallax_contact{
+    background-image: url(./images/contact.jpg);
+    min-height: 100dvh;
+    max-width: 100dvw;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
